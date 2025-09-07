@@ -47,4 +47,3 @@ This report demonstrates:
 
 ---
 
-📌 *This repository is for educational and portfolio purposes only.*  
